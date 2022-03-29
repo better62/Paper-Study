@@ -8,3 +8,13 @@
 4. [Rethinking the Inception Architecture for Computer Vision](https://blog.naver.com/har99mit/222523396535)
 5. [Densely Connected Convolutional Networks](https://blog.naver.com/har99mit/222559562539)
 6. [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](https://blog.naver.com/har99mit/222611769551)
+
+
+< GAN >
+1. Generative Adversarial Networks
+2. [Self-Attention Generative Adversarial Networks](https://blog.naver.com/har99mit/222667115160)
+
+
+< NLP >
+1. Attention is All You Need
+
